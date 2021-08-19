@@ -22,7 +22,7 @@ Activate Cargo
 --------------
 #### Cargo: the Rust build tool and package manager
 ```bash
-source $HOME/.cargo/env
+source ~/.cargo/env
 ```
 
 &nbsp;
